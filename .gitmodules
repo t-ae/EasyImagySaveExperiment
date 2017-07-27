@@ -1,0 +1,3 @@
+[submodule "EasyImagy"]
+	path = EasyImagy
+	url = https://github.com/koher/EasyImagy.git
